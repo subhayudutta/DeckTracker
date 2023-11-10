@@ -1,0 +1,9 @@
+streamlit
+protobuf==3.20
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+gunicorn
+h5py==2.10.0
